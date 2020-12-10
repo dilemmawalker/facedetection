@@ -5,9 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url('https://images.theconversation.com/files/177197/original/file-20170706-18989-9541f3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip');
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.apx{
+width: 150px;
+height: 100px;
 }
